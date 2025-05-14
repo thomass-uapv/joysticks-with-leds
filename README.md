@@ -23,3 +23,7 @@ Nouvelle connaissance : Manipuler des bits avec des opérateurs binaires en C++.
 ## IV. Code
 
 Voir le fichier [joysticks_with_leds.ino](joysticks_with_leds.ino)
+
+## V. Amélioration possible
+
+1. Simplifier tous ces if qui se suivent
