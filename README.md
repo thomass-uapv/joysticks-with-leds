@@ -2,9 +2,9 @@
 
 ## I. Informations générales
 
-Un simple projet arduino qui indique l'orientation du joystick à l'aide de LEDs adressables
-Date : 14/05/2025
-Durée consacrée : 4-6h
+Un simple projet arduino qui indique l'orientation du joystick à l'aide de LEDs adressables\n
+Date : 14/05/2025\n
+Durée consacrée : 4-6h\n
 
 Nouvelle connaissance : Manipuler des bits avec des opérateurs binaires en C++.
 
